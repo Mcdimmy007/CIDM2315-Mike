@@ -63,7 +63,7 @@ class Program
 
     for (int row = 0; row<N; row++)
     {
-        for(int col = 0; col<= row; col++) // Bard (2023, 09, 12). How do I get the pattern for 1 increment for each line of N?
+        for(int col = 0; col<= row; col++) // Bard (2023, 09, 12). How do I get the pattern for 1 increment for each row of N?
         {
             Console.Write("* ");
         }

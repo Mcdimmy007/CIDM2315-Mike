@@ -69,7 +69,7 @@ class Program
     {
         for (int i = 1; i <= N; i++)
         {
-            for (int j = 1; j <= N-i+1; j++) // Bard 09/18/2023. How do I make the asterisks aligned to the right
+            for (int j = 1; j <= N-i+1; j++) // Bard 09/18/2023. How do I make the asterisks aligned to the right?
             {
                 Console.Write(" ");
             }
